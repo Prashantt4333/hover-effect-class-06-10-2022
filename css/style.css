@@ -113,8 +113,8 @@ h1 span{
     position: absolute;
     display: flex;
     height: 50%;
-    top: 320px;
-    right: 835px;
+    top: 360px;
+    right: 850px;
     z-index: 1;
 }
 .Lamp_C{
